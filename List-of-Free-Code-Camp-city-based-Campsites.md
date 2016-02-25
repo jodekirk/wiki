@@ -71,6 +71,7 @@ If your city isn't listed here, you should [[create a Campsite for your city|How
 - Brazil
   - [Americana](https://www.facebook.com/groups/free.code.camp.americana/)
   - [Apucarana](https://www.facebook.com/groups/free.code.camp.your.apucarana.parana/)
+  - [Araraquara](https://www.facebook.com/groups/free.code.camp.araraquara/)
   - [Aracaju](https://www.facebook.com/groups/free.code.camp.aracaju/)
   - [Balneario Camboriu](https://www.facebook.com/groups/free.code.camp.bc/)
   - [Bauru](https://www.facebook.com/groups/free.code.camp.bauru/)
@@ -684,6 +685,7 @@ If your city isn't listed here, you should [[create a Campsite for your city|How
   - [Cherepovets](https://www.facebook.com/groups/free.code.camp.cherepovets/)    
   - [Irkutsk](https://www.facebook.com/groups/free.code.camp.irkutsk/)
   - [Kazan](https://www.facebook.com/groups/free.code.camp.kazan/)
+  - [Khabarovsk](https://www.facebook.com/groups/free.code.camp.khabarovsk/)
   - [Kemerovo](https://www.facebook.com/groups/free.code.camp.kemerovo/)
   - [Kosovo](https://www.facebook.com/groups/free.code.camp.kosovo/)
   - [Krasnodar](https://www.facebook.com/groups/free.code.camp.krasnodar/)
@@ -941,6 +943,7 @@ If your city isn't listed here, you should [[create a Campsite for your city|How
     - [Tallahassee](https://www.facebook.com/groups/free.code.camp.tallahassee.florida/)
     - [Tampa Bay](https://www.facebook.com/groups/free.code.camp.tampa/)
     - [Sarasota](https://www.facebook.com/groups/free.code.camp.sarasota.florida/)
+    - [Vero Beach](https://www.facebook.com/groups/free.code.camp.vero.beach/)
     - [West Palm Beach](https://www.facebook.com/groups/free.code.camp.wpb/)
   - Georgia
     - [Acworth](https://www.facebook.com/groups/free.code.camp.acworth.ga/)

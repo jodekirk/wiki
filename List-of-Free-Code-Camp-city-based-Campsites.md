@@ -379,6 +379,7 @@ If your city isn't listed here, you should [[create a Campsite for your city|How
   - [Jaipur](https://www.facebook.com/groups/free.code.camp.jaipur/)
   - [Jalgaon](https://www.facebook.com/groups/free.code.camp.jalgaon/)
   - [Jamnagar](https://www.facebook.com/groups/free.code.camp.jamnagar.guj.in/)
+  - [Kannur](https://www.facebook.com/groups/free.code.camp.your.city.kannur/)
   - [Kerala](https://www.facebook.com/groups/free.code.camp.kerala.india/)
   - [Koch Bihar](https://www.facebook.com/groups/Free.Code.Camp.KochBihar/)
   - [Kochi](https://www.facebook.com/groups/1542888942704307)
@@ -530,7 +531,8 @@ If your city isn't listed here, you should [[create a Campsite for your city|How
   - [Santiago de Querétaro](https://www.facebook.com/groups/free.code.camp.santiago.de.queretaro/)
   - [Tapachula](https://www.facebook.com/groups/free.code.camp.tapachula/)
   - [Tijuana](https://www.facebook.com/groups/free.code.camp.tijuana/)
-  - [Tuxtla Gutiérrez](https://www.facebook.com/groups/free.code.camp.tuxtla.gutierrez/)    
+  - [Tuxtla Gutiérrez](https://www.facebook.com/groups/free.code.camp.tuxtla.gutierrez/)  
+  - [Villahermosa](https://www.facebook.com/groups/free.code.camp.tabasco/)
   - [Zacatecas](https://www.facebook.com/groups/free.code.camp.zacatecas/)
 - Moldova
   - [Balti](https://www.facebook.com/groups/free.code.camp.balti/)
